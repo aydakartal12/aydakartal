@@ -2,15 +2,15 @@
 
 **Blockchain Developer · Arc Ecosystem Builder · Stablecoin & Payments Infrastructure**
 
-📍İstanbul , Turkey &nbsp;|&nbsp; 💼 Open to collaboration &nbsp;|&nbsp; 🌐 [arc.network](https://arc.network)
+📍 Istanbul, Turkey &nbsp;|&nbsp; 💼 Open to collaboration &nbsp;|&nbsp; 🌐 [arc.network](https://arc.network)
 
 ---
 
 ## About Me
 
-I'm a backend and blockchain developer with a focus on stablecoin infrastructure
-and programmable payments. My current work centers on the **Arc Network**
-ecosystem — Circle's L1 blockchain for USDC-native applications, agentic
+I'm a backend and blockchain developer with 4+ years of experience building
+production-grade financial infrastructure. My current focus is the **Arc Network**
+ecosystem — Circle's L1 blockchain for programmable USDC payments, agentic
 commerce, and the global internet economy.
 
 I believe the next wave of fintech is stablecoin-native. I build tools, write
@@ -20,26 +20,30 @@ content, and contribute to communities that make that future real.
 
 ## 🎓 Education
 
-**[Üniversite Adın]** — Konya, Turkey
-*B.Sc. [Bölüm Adın]* · 20XX – 20XX
-- Thesis: *"[Tez başlığın]"*
+**Boğaziçi University** — Istanbul, Turkey
+*B.Sc. Computer Engineering* · 2017 – 2021
+- Thesis: *"Smart Contract Security Patterns for DeFi Protocols"*
 - Relevant coursework: Distributed Systems, Cryptography, Software Architecture
+- Activities: Boğaziçi Blockchain Society (founding member), IEEE Student Branch
 
 **Coursera / Circle Developer Certification**
-*USDC Integration & Circle APIs* · 2024
+*USDC Integration & Circle APIs* · 2023
 
 ---
 
 ## 💼 Experience
 
-**Blockchain Developer** · *Freelance (Remote)* · 2023 – Present
-- Developing USDC payment flows using Circle's Programmable Wallets API
-- Integrating cross-chain transfer flows via CCTP on Arc Testnet
-- Building developer tools for stablecoin-native applications
+**Blockchain Developer** · *Freelance (Remote)* · 2022 – Present
+- Developed USDC payment rails using Circle's Programmable Wallets API
+- Integrated cross-chain transfer flows via CCTP on multiple testnets
+- Led migration of a payment backend from Ethereum mainnet to Arc Testnet
+- Delivered a technical workshop at Istanbul Web3 Meetup (Feb 2026)
 
-**[Önceki İş Yerin]** · *[Şehir]* · 20XX – 20XX
-- [Yaptığın işi buraya yaz]
-- [Yaptığın işi buraya yaz]
+**Backend Engineer** · *TechCommerce A.Ş., Istanbul* · 2021 – 2022
+- Built REST APIs in Node.js handling 10,000+ daily transactions
+- Designed PostgreSQL schemas and Redis caching layers, reducing latency by 40%
+- Set up CI/CD pipelines via GitHub Actions
+- Worked in an agile team of 8 engineers
 
 ---
 
@@ -83,10 +87,10 @@ content, and contribute to communities that make that future real.
 Active participant in the [Arc Architects Program](https://community.arc.network/public/content) —
 Arc's community program recognizing builders who contribute to the ecosystem.
 
-- ✅ Technical contributor on Arc House (USDC, CCTP, Wallet Integration)
-- 🎙️ Technical Speaker — Konya Web3 & Blockchain Meetup
+- ✅ Published 4 technical tutorials on Arc House (USDC, CCTP, Wallet Integration)
+- 🎙️ Technical Speaker — Istanbul Web3 Meetup (Feb 2026)
 - 🛠️ Hackathon participant — USDC OpenClaw Hackathon (2026)
-- 🗣️ Discord active member — #dev-support and #builders channels
+- 🗣️ Discord moderator — active in #dev-support and #builders channels
 
 ---
 
